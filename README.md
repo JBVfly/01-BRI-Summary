@@ -18,7 +18,7 @@ This 49-item inventory has two versions. A social version that is typically ther
 
 The home page is simple with just log in and some related documents. The documents are not available for at the moment. 
 
-![bri-home-700-border](https://user-images.githubusercontent.com/23184069/45260991-dd6d8a80-b3bb-11e8-9e9b-82c1b9512ca5.jpg "BRI Home Page")
+![bri-home-700-border](http://johnvardaman.com/BRI-home-jv.jpg "BRI Home Page")
 
 ### Dashboard
 
